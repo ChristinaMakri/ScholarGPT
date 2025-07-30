@@ -1,0 +1,11 @@
+langchain
+openai
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+tiktoken
+pypdf
+numpy
+asteval
+
